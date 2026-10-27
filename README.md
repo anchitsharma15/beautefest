@@ -1,32 +1,33 @@
 # BeauteFest
 
-Services and enquiries website for BeauteFest. Target domain: https://beautefest.in/.
+Services, makeup portfolio and beauty-store website for https://beautefest.in/.
 
 ## Hosting
 
-Public repository on GitHub, deployed by GitHub Actions to GitHub Pages, matching the LifeShots hosting arrangement. Hostinger manages the domain and DNS only. Keep this repository public while using GitHub Free for Pages.
+Public GitHub repository deployed through GitHub Actions to GitHub Pages. Hostinger manages the domain and DNS only. Keep this repository public while using GitHub Free for Pages. The workflow publishes only `site/`, never the repository README. Updates to site files on main deploy automatically.
 
-Only `site/` is published. The workflow deliberately avoids publishing the repository root or this README.
+## Local preview
 
-## Current release
+No dependencies or build step. Run `python3 -m http.server 8080 --directory site` and open http://localhost:8080.
 
-A temporary coming-soon page linking to https://www.instagram.com/beaute_fest/ for enquiries. Typography, colours and illustration are provisional, pending the client logo. No client photographs, unconfirmed services, prices, reviews, contact numbers or booking promises have been added.
+## Features
 
-## Development
+- Bridal, engagement/ring ceremony, party/reception and pre-wedding services
+- Filterable image gallery with accessible enlarged views
+- Store introduction, public contact number, map directions and Instagram links
+- Enquiry preparation in the browser, with message review before opening WhatsApp
+- Responsive navigation, FAQ disclosure panels, privacy page, sitemap and page metadata
 
-No build or dependencies. Run `python3 -m http.server 8080 --directory site` and open http://localhost:8080.
+The enquiry form does not store or automatically send information. The visitor reviews the prepared message and chooses whether to send it through WhatsApp. No analytics or tracking cookies are added.
 
-## Production content still needed
+## Content
 
-- Official logo and brand direction
-- Confirmed service list and descriptions
-- Approved portfolio photos and videos
-- Business location, service area and hours
-- Public enquiry phone/WhatsApp and email, if wanted
-- Booking workflow and privacy details if collecting enquiries on the site
+Business facts and photographs were sourced from BeauteFest’s Instagram profile, highlights and credited LifeShots collaborations. See CONTENT-SOURCES.md. The public phone and WhatsApp number is +91 99141 93973. Opening hours, rates, packages and date availability are confirmed directly with the team.
 
-## Domain setup
+The official logo is pending. Current text wordmark, colours and monogram favicon are provisional. Replace the header/footer wordmark and favicon when the logo arrives.
 
-Select GitHub Actions as the Pages publishing source. Configure beautefest.in in Pages settings before DNS cutover. Preserve email and verification records. Add the GitHub Pages apex A records and point www to anchitsharma15.github.io. Wait for DNS checks and certificate provisioning, then enable HTTPS and verify apex and www.
+## Domain
 
-Never commit credentials, personal enquiry data, or hosting backups.
+GitHub Pages custom domain: beautefest.in. HTTPS is enabled. Hostinger apex A records: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153. www CNAME: anchitsharma15.github.io. Nameservers remain with Hostinger. Preserve unrelated email/verification records when changing DNS.
+
+Never commit credentials, enquiry data, private documents or hosting backups.
