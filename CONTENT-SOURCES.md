@@ -1,27 +1,14 @@
-# Verified content and media sources
+# BeauteFest content and image sources
 
-Reviewed 27 October 2026.
+Reviewed 27 October 2026. Business address and phone: Instagram posts DedsVFDEZAc, De1dL6Tk3tr, DeGd_v4II3g and Dd8HRhKE6Bh. Product categories and in-store advice are described on the BeauteFest profile and these posts.
 
-## Business facts
+- assets/store.jpg: https://www.instagram.com/beaute_fest/p/DedsVFDEZAc/
+- assets/makeup-products.jpg: https://www.instagram.com/beaute_fest/p/De1dL6Tk3tr/
+- assets/skincare-products.jpg: https://www.instagram.com/beaute_fest/p/DejN0QfkbWo/
+- assets/store-advice.jpg: https://www.instagram.com/beaute_fest/p/DewQKyfkypx/
+- assets/fragrance-products.jpg: https://www.instagram.com/beaute_fest/p/DebR8t3kaT-/
+- assets/beauty-portrait.jpg: https://www.instagram.com/lifeshots4u/p/Dc8qqfHCcYA/ — BeauteFest makeup, LifeShots photography.
+- Makeup service offering: https://www.instagram.com/beaute_fest/reel/DcGbmHQuNk2/ and profile highlights.
+- assets/beautefest-logo.png and favicon.png: client-supplied Beaute Fest artwork, uploaded as LIFESHOTS PNG.png, resized for web delivery.
 
-https://www.instagram.com/beaute_fest/ — skincare, makeup and cosmetics store; bridal, wedding, party, ring ceremony and pre-wedding highlight titles.
-
-https://www.instagram.com/beaute_fest/p/DedsVFDEZAc/ — address LGF 94, Amayra Emporio, Kharar–Kurali Road; phone +91 99141 93973; in-store assistance; skincare, makeup and fragrances. Store photograph: site/assets/store.jpg.
-
-https://www.instagram.com/beaute_fest/p/DeGd_v4II3g/ and https://www.instagram.com/beaute_fest/p/Dd8HRhKE6Bh/ — public WhatsApp contact +91 99141 93973.
-
-https://www.instagram.com/beaute_fest/reel/DcGbmHQuNk2/ — bridal, engagement, party and reception makeup offering; linked reel on website.
-
-## Portfolio
-
-- beauty-portrait.jpg: https://www.instagram.com/lifeshots4u/p/Dc8qqfHCcYA/ — LifeShots × BeauteFest, makeup credited to BeauteFest.
-- editorial.jpg: https://www.instagram.com/lifeshots4u/p/Dc_hkZ4o-_0/ — makeup credited to BeauteFest; photography by LifeShots.
-- wedding.jpg: https://www.instagram.com/lifeshots4u/p/DcMAehUElZM/ — makeup credited to BeauteFest; photography by LifeShots; hair by Anu Artistry.
-- bridal.jpg: https://www.instagram.com/lifeshots4u/p/DcBpkuPErB-/ — same wedding collaboration credits.
-- bridal-highlight.jpg: https://www.instagram.com/stories/highlights/17926569274780048/ — BeauteFest bridal makeup highlight.
-
-Photos are hosted locally to avoid expiring Instagram CDN URLs. Image sizing/compression is for web delivery; actual people and results are not generated. Photography credits appear in the gallery.
-
-## Outstanding client input
-
-Official logo. Exact rates, opening hours and booking terms are not asserted; enquiries are directed to the team. No invented reviews, qualifications, years of experience or service guarantees are included.
+Product prices, opening hours, exact inventory and appointment availability are confirmed by the team. No invented ratings, testimonials, qualifications or offers are used. Photos are hosted with the site instead of relying on expiring Instagram links.

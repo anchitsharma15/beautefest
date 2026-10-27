@@ -1,6 +1,6 @@
 # BeauteFest
 
-Services, makeup portfolio and beauty-store website for https://beautefest.in/.
+Skincare, cosmetics, makeup and beauty-store website for https://beautefest.in/.
 
 ## Hosting
 
@@ -12,8 +12,9 @@ No dependencies or build step. Run `python3 -m http.server 8080 --directory site
 
 ## Features
 
-- Bridal, engagement/ring ceremony, party/reception and pre-wedding services
-- Filterable image gallery with accessible enlarged views
+- Skincare, makeup/cosmetics and fragrance discovery
+- Category filtering, category search and product enquiry links
+- Secondary bridal, engagement/ring ceremony, party/reception and pre-wedding makeup services
 - Store introduction, public contact number, map directions and Instagram links
 - Enquiry preparation in the browser, with message review before opening WhatsApp
 - Responsive navigation, FAQ disclosure panels, privacy page, sitemap and page metadata
@@ -24,7 +25,7 @@ The enquiry form does not store or automatically send information. The visitor r
 
 Business facts and photographs were sourced from BeauteFest’s Instagram profile, highlights and credited LifeShots collaborations. See CONTENT-SOURCES.md. The public phone and WhatsApp number is +91 99141 93973. Opening hours, rates, packages and date availability are confirmed directly with the team.
 
-The official logo is pending. Current text wordmark, colours and monogram favicon are provisional. Replace the header/footer wordmark and favicon when the logo arrives.
+The client-supplied Beaute Fest logo is used in the header, footer, privacy page and browser icon. The site focuses on products and the store, with a smaller makeup-service section.
 
 ## Domain
 
