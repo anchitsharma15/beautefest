@@ -1,36 +1,11 @@
-# BeauteFest
+# BeauteFest — under maintenance
 
-Skincare, cosmetics, makeup and beauty-store website for https://beautefest.in/.
+Production: https://beautefest.in/
 
-## Hosting
+The user requested maintenance on 23 November 2026. Do not relaunch production until the user explicitly approves publishing. Enhancement requests apply to the review version only.
 
-Public GitHub repository deployed through GitHub Actions to GitHub Pages. Hostinger manages the domain and DNS only. Keep this repository public while using GitHub Free for Pages. The workflow publishes only `site/`, never the repository README. Updates to site files on main deploy automatically.
+Review website: https://anchitsharma15.github.io/beautefest-preview/
 
-## Local preview
+Editable relaunch source is preserved on branch `review/relaunch`. Review output is in the separate `anchitsharma15/beautefest-preview` repository. The preview is public, marked as a draft and excluded from indexing via robots metadata.
 
-No dependencies or build step. Run `python3 -m http.server 8080 --directory site` and open http://localhost:8080.
-
-## Features
-
-- Skincare, makeup/cosmetics and fragrance discovery
-- Category filtering, category search and product enquiry links
-- Dedicated `makeup.html` page for bridal (Classic, HD, Airbrush), ring ceremony (Classic, HD) and party (Classic, HD)
-- Sapna Hatha’s supplied experience certificate, accurately described as employment experience
-- Three selected Instagram Reels with click-to-load players and permanent direct links
-- Store introduction, public contact number, map directions and Instagram links
-- Enquiry preparation in the browser, with message review before opening WhatsApp
-- Responsive navigation, FAQ disclosure panels, privacy page, sitemap and page metadata
-
-The enquiry form does not store or automatically send information. The visitor reviews the prepared message and chooses whether to send it through WhatsApp. No first-party analytics or tracking cookies are added. Loading an Instagram player connects to Instagram, whose own privacy policy applies.
-
-## Content
-
-Business facts and photographs were sourced from BeauteFest’s Instagram profile, highlights and credited LifeShots collaborations. See CONTENT-SOURCES.md. The public phone and WhatsApp number is +91 99141 93973. Opening hours, rates, packages and date availability are confirmed directly with the team.
-
-The client-supplied Beaute Fest logo is used in the header, footer, privacy page and browser icon. The site retains product/store discovery and provides a separate page for makeup services. Specific product SKUs await client confirmation; no unconfirmed inventory or prices have been added. See [relaunch notes and client content request](docs/RELAUNCH.md) and [product intake CSV](docs/product-intake.csv).
-
-## Domain
-
-GitHub Pages custom domain: beautefest.in. HTTPS is enabled. Hostinger apex A records: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153. www CNAME: anchitsharma15.github.io. Nameservers remain with Hostinger. Preserve unrelated email/verification records when changing DNS.
-
-Never commit credentials, enquiry data, private documents or hosting backups. The owner experience certificate was explicitly approved by the user for publication on the website and in this public source repository on 23 November 2026.
+The existing GitHub Pages workflow publishes `site/` on main. Keep maintenance files there until explicit approval. Use the GitHub plugin for supported repository operations.
