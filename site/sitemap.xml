@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://beautefest.in/</loc></url><url><loc>https://beautefest.in/privacy/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://beautefest.in/</loc></url>
+  <url><loc>https://beautefest.in/artist.html</loc></url>
+  <url><loc>https://beautefest.in/bridal.html</loc></url>
+  <url><loc>https://beautefest.in/contact.html</loc></url>
+  <url><loc>https://beautefest.in/cosmetics.html</loc></url>
+  <url><loc>https://beautefest.in/fragrances.html</loc></url>
+  <url><loc>https://beautefest.in/makeup.html</loc></url>
+  <url><loc>https://beautefest.in/party.html</loc></url>
+  <url><loc>https://beautefest.in/privacy.html</loc></url>
+  <url><loc>https://beautefest.in/products.html</loc></url>
+  <url><loc>https://beautefest.in/ring-ceremony.html</loc></url>
+  <url><loc>https://beautefest.in/skincare.html</loc></url>
+  <url><loc>https://beautefest.in/visit.html</loc></url>
+</urlset>
